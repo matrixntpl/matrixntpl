@@ -13,7 +13,9 @@
 **Backend:** C# · ASP.NET Core · Entity Framework Core · PostgreSQL
 
 **Patterns:** DDD · Repository Pattern · Clean Architecture
+
 **AI Tooling:** Claude Code · Prompt Engineering · Multi-agent Orchestration
+
 **Tools:** Git · Docker · xUnit
 
 ## Connect
